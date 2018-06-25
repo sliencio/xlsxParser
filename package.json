@@ -1,0 +1,30 @@
+{
+  "name": "xlsxparser",
+  "version": "1.0.0",
+  "description": "convert xlsx file to json",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sliencio/xlsxParser.git"
+  },
+  "keywords": [
+    "xlsx",
+    "excel",
+    "json",
+    "convert",
+    "game developer"
+  ],
+  "author": "sliencio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sliencio/xlsxParser/issues"
+  },
+  "homepage": "https://github.com/sliencio/xlsxParser#readme",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "node-xlsx": "^0.12.0"
+  }
+}

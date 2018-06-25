@@ -1,0 +1,14 @@
+{
+  "xlsx": {
+    "typeRow":2,
+    "headRow": 3,
+    "src": "./excel/**/[^~$]*.xlsx",
+    "outPath": "./json",
+    "arrayFlag":",",
+    "sonCon": ".",
+    "brotherCon": "&"
+  },
+  "json": {
+    "compress": false
+  }
+}
